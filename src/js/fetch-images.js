@@ -10,4 +10,3 @@ async function fetchImages(query, page, perPage) {
   );
   return response;
 }
-
